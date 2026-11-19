@@ -1,0 +1,16 @@
+site_name: Garage Door Fix Finder
+site_tagline: Broken spring, door won't open? How to tell what's wrong and find a repair pro you can trust.
+site_description: "Plain-English guides for when a garage door stops working: broken springs, doors that won't open, what repairs cost, and how to vet a repair company."
+site_owner: Black Swan Sibyl
+language: en
+
+# Absolute site origin, no trailing slash.
+base_url: "https://christiemogulreport.github.io/garage-door-directory"
+
+# Empty because the site is served from the domain root.
+base_path: "/garage-door-directory"
+
+# No affiliate links are published yet. When the first one is added, set this to a
+# disclosure sentence (for example: "Some links on this site are affiliate links. If you buy
+# through them we may earn a commission at no extra cost to you.").
+affiliate_disclosure: ""
