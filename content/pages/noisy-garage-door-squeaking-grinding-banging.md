@@ -64,15 +64,13 @@ Never adjust torsion springs or any fasteners painted red. Genie and Overhead Do
 
 ## Match the sound to the cause
 
-| What you hear | Common cause (per the maker cited) | First step |
-|---|---|---|
-| Squeaking or creaking | Dry moving parts, or worn rollers or hinges ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)) | Lubricate the right parts (below). If it keeps squeaking, check the rollers for wear. |
-| Grinding or scraping | Misaligned tracks or worn opener gears ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)); a door that isn't lubricated, aligned, or balanced ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)) | Clean the tracks and look for rollers rubbing. Grinding that won't go away is a pro call (Clopay). |
-| Rattling | Loose hardware: bolts, hinges, mounting brackets, or a chain that needs adjusting ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)) | Snug up hinge and bracket bolts (but not the red ones or the bottom brackets). |
-| Groaning or slapping | Slack in the opener's drive chain or belt ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)) | Check your opener manual for chain or belt tension. |
-| Clicking or whirring | Springs may need lubrication ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)) | A light spray only. Never touch or adjust the spring. |
-| Banging or clanging | Loose or broken hardware; a single loud bang often means a broken spring ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)) | Stop using the door and call a pro. |
-| Opener hums or grinds but the door doesn't move | Stripped opener gear or carriage | See [opener runs but door won't move](/garage-door-opener-runs-but-door-wont-move/). |
+- **Squeaking or creaking.** Likely cause: dry moving parts, or worn rollers or hinges ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)). First step: lubricate the right parts (below). If it keeps squeaking, check the rollers for wear.
+- **Grinding or scraping.** Likely cause: misaligned tracks or worn opener gears ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)); a door that isn't lubricated, aligned, or balanced ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)). First step: clean the tracks and look for rollers rubbing. Grinding that won't go away is a pro call (Clopay).
+- **Rattling.** Likely cause: loose hardware, such as bolts, hinges, mounting brackets, or a chain that needs adjusting ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)). First step: snug up hinge and bracket bolts (but not the red ones or the bottom brackets).
+- **Groaning or slapping.** Likely cause: slack in the opener's drive chain or belt ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)). First step: check your opener manual for chain or belt tension.
+- **Clicking or whirring.** Likely cause: the springs may need lubrication ([Genie](https://www.geniecompany.com/maintaining-your-garage-door)). First step: a light spray only. Never touch or adjust the spring.
+- **Banging or clanging.** Likely cause: loose or broken hardware; a single loud bang often means a broken spring ([Clopay](https://www.clopaydoor.com/residential/buyingguide/how-to-fix-a-noisy-garage-door)). First step: stop using the door and call a pro.
+- **Opener hums or grinds but the door doesn't move.** Likely cause: stripped opener gear or carriage. First step: see [opener runs but door won't move](/garage-door-opener-runs-but-door-wont-move/).
 
 ## The safe DIY fixes
 
